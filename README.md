@@ -1,5 +1,5 @@
 # ay-callbackify
-[![npm version](https://img.shields.io/badge/npm-1.0.1-green.svg)](https://www.npmjs.com/package/ay-callbackify)
+[![npm version](https://img.shields.io/badge/npm-1.0.6-green.svg)](https://www.npmjs.com/package/ay-callbackify)
 
 node callbackify promises
 
