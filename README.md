@@ -9,6 +9,7 @@ npm install ay-callbackify
 ```
 ### Usage Example:
 ```javascript
+const callbackify = require('ay-callbackify');
 const promise = name => new Promise((resolve, reject) => setTimeout(resolve.bind(this, name), 100));
 const cbRead = callbackify(promise);
 cbRead('John Doe', (err, res) => {
