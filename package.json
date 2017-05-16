@@ -1,0 +1,25 @@
+{
+  "name": "ay-callbackify",
+  "version": "1.0.5",
+  "description": "node callbackify promises",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YaAvi/ay-callbackify.git"
+  },
+  "keywords": [
+    "callbackify",
+    "callback",
+    "node",
+    "promise"
+  ],
+  "author": "Avi Yaakov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/YaAvi/ay-callbackify/issues"
+  },
+  "homepage": "https://github.com/YaAvi/ay-callbackify#readme"
+}
