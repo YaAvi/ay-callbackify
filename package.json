@@ -1,6 +1,6 @@
 {
   "name": "ay-callbackify",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "node callbackify promises",
   "main": "index.js",
   "scripts": {
